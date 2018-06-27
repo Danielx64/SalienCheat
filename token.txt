@@ -1,0 +1,1 @@
+{"webapi_host":"https:\/\/community.steam-api.com\/","webapi_host_secure":"https:\/\/community.steam-api.com\/","token":"de834026bc1098361642f448fdfa8b0e","steamid":"76561198071959511","persona_name":"Danielx64","success":1}
